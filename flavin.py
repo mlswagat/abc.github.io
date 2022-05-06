@@ -30,10 +30,10 @@ for model in structure:
      if name == "FMN":
       mylist.append(residue)
 
-#print(mylist)
-p1 = mylist.__getitem__(0)
-p2 = mylist.__getitem__(1)
-print(p1)
+print(mylist)
+# p1 = mylist.__getitem__(0)
+# p2 = mylist.__getitem__(1)
+# print(p1)
 #distance = p1-p2
 #print(distance)
    # if name == "TYR":
